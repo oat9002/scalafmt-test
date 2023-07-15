@@ -3,9 +3,4 @@ object Main extends App {
   println(data.content)
 }
 
-case class Data(
-
-
-
-
-                 content: String)
+case class Data(content: String)
